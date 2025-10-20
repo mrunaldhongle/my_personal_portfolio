@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Web Development Intern",
+    "organisation": "Internpe",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Learned HTML, CSS, and JavaScript to create web pages."],
+    "imageSrc": "history/internpe.jpeg"
+  },
+  {
+    "role": "Web Development Intern",
+    "organisation": "CodSoft pvt ltd",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Next, learn React.js and advanced JavaScript to build dynamic, modern web apps"],
+    "imageSrc": "history/codesoft.jpeg"
+  },
+  {
+    "role": "Python Programming",
+    "organisation": "Codem@te pvt ltd",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "experiences": [
+      "Next, master advanced Python, DSA, and hands-on web or AI/ML projects."
+    ],
+    "imageSrc": "history/codem@te.jpeg"
+  }
+]

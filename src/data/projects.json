@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Develop and Design AI-Based Career Predictor & Resume Builder Engineering Graduates",
+    "imageSrc": "projects/project1.jpeg",
+    "description": "Built an AI system using ML algorithms with personalized dashboards, guidance chatbot, mock tests, and ATS-friendly resume generation.",
+    "skills": ["Python", "Flask", "Scikit-learn", "React.js","SQLite"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project2.png",
+    "description": "A personal portfolio website built with React.js, Node.js, HTML, CSS, and JavaScript, featuring sections about me, internships, experience, projects, and contact details to showcase my skills and journey.",
+    "skills": ["React", "Express", "Node", "html","css","vite","Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Social Media Dashboard",
+    "imageSrc": "projects/project3.png",
+    "description": "Developed an interactive Social Media Dashboard using Node.js, MongoDB, and REST APIs, allowing users to perform full CRUD operations for seamless content management.",
+    "skills": ["React.js", "Express", "Node.js","Mongodb","Rest API","html","css"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
